@@ -9,7 +9,6 @@
 <p>
   <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-22D3EE?style=flat-square&labelColor=07080D" alt="Windows 10 | 11">
   <img src="https://img.shields.io/badge/portable-un%20solo%20.exe-FF4D9D?style=flat-square&labelColor=07080D" alt="Portable">
-  <img src="https://img.shields.io/badge/hecho%20en-Rust-8B6CFF?style=flat-square&labelColor=07080D" alt="Rust">
   <img src="https://img.shields.io/badge/precio-gratis-A3E635?style=flat-square&labelColor=07080D" alt="Gratis">
 </p>
 
